@@ -29,7 +29,7 @@
         <div class="card-body">
             <h5 class="card-title">Cute Kittens</h5>
             <p class="card-text">Kittens are small, furry animals that are known for their playful and adorable nature. They bring joy and warmth to any home they enter. Whether they're playing with a toy or snuggling up in a cozy spot, kittens are always entertaining to watch.</p>
-            <img src = "https://img.freepik.com/free-photo/view-of-adorable-looking-kitten_23-2150886458.jpg"
+            <img src = "https://img.freepik.com/free-photo/view-of-adorable-looking-kitten_23-2150886458.jpg">
         </div>
     </div>
 </div>
